@@ -2,9 +2,9 @@
 Bash scripting to make a docker application ssl certiifed.
 
 ## Pre-Requisits
-> Understanding of Dockerization
-> DNS
-> Working domain name.
+1. Understanding of Dockerization
+2. DNS
+3. Working domain name.
 
 ## Requirements
 > Create a subdomain in your DNS pointing to your server.
