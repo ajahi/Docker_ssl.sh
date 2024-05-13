@@ -10,7 +10,7 @@ Bash scripting to make a docker application ssl certiifed.
 > Create a subdomain in your DNS pointing to your server.
 
 ## Working
-This bash script file accepts two command line arguments. 1> domain name (subdomain.domain.com) 2> Port of the application to be deployed.
+This bash script file expects two command line arguments. 1> domain name (subdomain.domain.com) 2> Port of the application to be deployed.
 
 ## Steps
 1. Checks for command line arguments.
